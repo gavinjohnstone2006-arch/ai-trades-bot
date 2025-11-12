@@ -1,1 +1,2 @@
 # ai-trades-bot
+streamlit
